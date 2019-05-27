@@ -1,2 +1,2 @@
-# pex
-PHP Explorer
+# PEX
+Minimalistic PHP file explorer
